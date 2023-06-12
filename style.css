@@ -1,0 +1,26 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.star_container{
+    margin: 1rem 0;
+}
+
+.star{
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.green{
+    
+    color: rgba(185, 159, 11, 0.979);
+}
+
+h2{
+    background-color: aquamarine;
+}
